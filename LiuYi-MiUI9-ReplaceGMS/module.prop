@@ -1,0 +1,7 @@
+id=LiuYi-MiUI9-ReplaceGMS
+name=LiuYi-MiUI9-ReplaceGMS
+version=v1
+versionCode=1
+author=liuyiqqmail
+description=LiuYi-MiUI9-ReplaceGMS[精简GMS，国内用不了Google。。。（GoogleKeyboard、GoogleCalendarSyncAdapter、GoogleContactsSyncAdapter、GoogleLoginService、GooglePartnerSetup、GoogleFeedback、GoogleBackupTransport、GoogleServicesFramework、GmsCore、PrebuiltGmsCore、Velvet）]
+minMagisk=1500

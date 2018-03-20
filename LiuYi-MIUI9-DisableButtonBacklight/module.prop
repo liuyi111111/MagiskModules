@@ -1,0 +1,7 @@
+id=LiuYi-MIUI9-DisableButtonBacklight
+name=LiuYi-MIUI9-DisableButtonBacklight
+version=v1
+versionCode=1
+author=liuyiqqmail
+description=LiuYi-MIUI9-DisableButtonBacklight[开机自动关闭按键背光灯]
+minMagisk=1500
