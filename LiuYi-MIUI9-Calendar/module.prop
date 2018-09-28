@@ -1,0 +1,7 @@
+id=LiuYi-MIUI9-Calendar
+name=LiuYi-MIUI9-Calendar
+version=v1
+versionCode=1
+author=liuyiqqmail
+description=LiuYi-MIUI9-Calendar[中国版日历（修复上班和休息不对导致闹钟不响）]
+minMagisk=1500
